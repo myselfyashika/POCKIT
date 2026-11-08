@@ -1,0 +1,6 @@
+{
+  "name": "Pockit - Student UPI & Smart Wallet Hub",
+  "description": "Student-focused UPI payment and personal wallet management application. Divide your money into custom wallets, track budgets, and Scan & Pay from the wallet of your choice.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
